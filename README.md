@@ -19,8 +19,5 @@ A memo in a Google Doc, open in a Chrome tab shared with Claude. It has not been
 ## How it was made
 I designed and directed this skill and built it with Claude. It started from a review routine I use on my own reviews of early-stage deals. It has been used by me only; I have not measured time saved.
 
-## Example
-See [example/](example/) for a review of a fictional memo.
-
 ## License
 No license: all rights reserved. This repo is public to be read, not reused.
